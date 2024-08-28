@@ -18,5 +18,13 @@
   "files": [
     "dist"
   ],
-  "type": "module"
+  "type": "module",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  },
+  "scripts": {
+    "build": "tsc",
+    "ci": "npm run build"
+  }
 }
