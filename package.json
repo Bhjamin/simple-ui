@@ -1,0 +1,22 @@
+{
+  "name": "simple-ui",
+  "version": "1.0.0",
+  "description": "A simple React UI component library that utilizes Framer Motion and Iconoir",
+  "keywords": [
+    "React",
+    "Typscript"
+  ],
+  "homepage": "https://github.com/Bhjamin/simple-ui",
+  "bugs": {
+    "url": "https://github.com/Bhjamin/simple-ui/issues"
+  },
+  "author": "Bhjamin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bhjamin/simple-ui.git"
+  },
+  "files": [
+    "dist"
+  ],
+  "type": "module"
+}
