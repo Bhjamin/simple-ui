@@ -1,6 +1,6 @@
 {
   "name": "simple-ui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple React UI component library that utilizes Framer Motion and Iconoir",
   "keywords": [
     "React",
