@@ -1,4 +1,4 @@
-# simple-ui
+# @bhjamin/simple-ui
 
 ## 1.0.1
 
