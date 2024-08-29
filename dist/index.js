@@ -1,2 +1,2 @@
-export { add } from "./utils.js";
+export { add } from './utils.js';
 //# sourceMappingURL=index.js.map
